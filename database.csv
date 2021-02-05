@@ -1,0 +1,3 @@
+  email,subject,message
+detolafolaranmi@gmail.com "Soft token enquires" "TypeError: writerows() takes exactly one argument (3 given)"
+busayor@gmail.com "Account debitted" "Please pay me back"
