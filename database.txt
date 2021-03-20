@@ -1,0 +1,5 @@
+email,subject,message
+busayor@gmail.com,Soft token enquires,Soft token enquiresSoft token enquiresSoft token enquires
+detolafolaranmi@gmail.com,Account debitted,Account debitted
+Account debitted
+Account debitted
